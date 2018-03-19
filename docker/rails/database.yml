@@ -1,0 +1,2 @@
+  password: <%= ENV['MYSQL_ROOT_PASSWORD'] %>
+  host: db
